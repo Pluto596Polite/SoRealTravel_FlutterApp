@@ -5,6 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This project I took on to practice and get familiar with the dart programming langauge and the flutter framework by
+building a simple travel application for Uncle Fanus to make it easier to book tours and for him to manage his tours.
 
 A few resources to get you started if this is your first Flutter project:
 
